@@ -1,8 +1,10 @@
 <p align="center">
     <img width="150px" src="src/assets/echat.png" align="center" alt="Pramod Devireddy Chat App" />
     <h2 align="center">eChat</h2>
-    <p align="center">Desktop Application built with Vue + GoLang! 🔥</p>
+    <p align="center"><b>Desktop Chat Application built with Vue + GoLang! 🔥</b></p>
 </p>
+
+<br/>
 
 # Screenshot
 
